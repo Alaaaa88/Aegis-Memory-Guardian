@@ -1,0 +1,10 @@
+[package]
+name = "AegisMemoryProject"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# مكتبات التصوير والتوثيق الجنائي
+screenshots = "0.8.10"
+image = "0.24"
+rand = "0.8"
